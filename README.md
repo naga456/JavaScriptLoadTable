@@ -14,9 +14,5 @@ https://github.com/naga456/JavaScriptLoadTable
 Tools/Languages:
 JavaScript, D3.JS, Visual Studio Code
 
-Screenshots:
-![alt text] (sample1.jpg)
-![demo] sample1.jpg
-!sample1.jpg
-!(sample1.jpg)
+### Screenshots:
 ![sample1](https://user-images.githubusercontent.com/23746877/64522196-7aad1880-d2c7-11e9-8aab-2f851bb849b9.jpg)
