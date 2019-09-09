@@ -16,3 +16,4 @@ JavaScript, D3.JS, Visual Studio Code
 
 Screenshots:
 ![alt text] (sample1.jpg)
+![demo] sample1.jpg
