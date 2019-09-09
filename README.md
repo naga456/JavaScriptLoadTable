@@ -11,7 +11,7 @@ https://naga456.github.io/JavaScriptLoadTable/
 link to code:
 https://github.com/naga456/JavaScriptLoadTable
 
-## Tools/Languages:
+#### Tools/Languages:
 JavaScript, D3.JS, Visual Studio Code
 
 ### Screenshots:
