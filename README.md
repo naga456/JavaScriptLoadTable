@@ -13,3 +13,6 @@ https://github.com/naga456/JavaScriptLoadTable
 
 Tools/Languages:
 JavaScript, D3.JS, Visual Studio Code
+
+Screenshots:
+![alt text] /sample1.jpg
