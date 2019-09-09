@@ -12,4 +12,4 @@ link to code:
 https://github.com/naga456/JavaScriptLoadTable
 
 Tools/Languages:
-JavaScript, D3.JS
+JavaScript, D3.JS, Visual Studio Code
